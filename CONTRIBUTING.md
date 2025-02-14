@@ -88,6 +88,10 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+##Desafio de lógica de programação para a comunidade.
+Criar um programa em Java que receba uma string e conte quantas vogais existem nela
+Os participantes poderão resolver o desafio e enviar suas soluções por Pull Requests, incentivando a colaboração open source.
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
